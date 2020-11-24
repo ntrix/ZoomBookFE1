@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "http://localhost/static/css/main.82f80d9d.chunk.css",
+    "main.js": "http://localhost/static/js/main.275a353a.chunk.js",
+    "main.js.map": "http://localhost/static/js/main.275a353a.chunk.js.map",
+    "runtime-main.js": "http://localhost/static/js/runtime-main.f6869cbf.js",
+    "runtime-main.js.map": "http://localhost/static/js/runtime-main.f6869cbf.js.map",
+    "static/js/2.b5f8b0ab.chunk.js": "http://localhost/static/js/2.b5f8b0ab.chunk.js",
+    "static/js/2.b5f8b0ab.chunk.js.map": "http://localhost/static/js/2.b5f8b0ab.chunk.js.map",
+    "index.html": "http://localhost/index.html",
+    "static/css/main.82f80d9d.chunk.css.map": "http://localhost/static/css/main.82f80d9d.chunk.css.map",
+    "static/js/2.b5f8b0ab.chunk.js.LICENSE.txt": "http://localhost/static/js/2.b5f8b0ab.chunk.js.LICENSE.txt",
+    "static/media/angry.35ba6413.png": "http://localhost/static/media/angry.35ba6413.png",
+    "static/media/haha.cb086820.png": "http://localhost/static/media/haha.cb086820.png",
+    "static/media/hug.5564edaf.png": "http://localhost/static/media/hug.5564edaf.png",
+    "static/media/love.6574d046.png": "http://localhost/static/media/love.6574d046.png",
+    "static/media/sad.f3e646d9.png": "http://localhost/static/media/sad.f3e646d9.png",
+    "static/media/wow.e3888cdc.png": "http://localhost/static/media/wow.e3888cdc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6869cbf.js",
+    "static/js/2.b5f8b0ab.chunk.js",
+    "static/css/main.82f80d9d.chunk.css",
+    "static/js/main.275a353a.chunk.js"
+  ]
+}
